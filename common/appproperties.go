@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/schema/soo/ofc/extended_properties"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/schema/soo/ofc/extended_properties"
 )
 
 // AppProperties contains properties specific to the document and the
@@ -26,7 +26,7 @@ type AppProperties struct {
 func NewAppProperties() AppProperties {
 	p := AppProperties{x: extended_properties.NewProperties()}
 	p.SetCompany("Baliance LLC")
-	p.SetApplication("github.com/sdowns/gooxml")
+	p.SetApplication("github.com/pevecyan/gooxml")
 	p.SetDocSecurity(0)
 	p.SetLinksUpToDate(false)
 	// trim the 'v'
@@ -37,7 +37,7 @@ func NewAppProperties() AppProperties {
 }
 
 // Application returns the name of the application that created the document.
-// For gooxml created documents, it defaults to github.com/sdowns/gooxml
+// For gooxml created documents, it defaults to github.com/pevecyan/gooxml
 func (a AppProperties) Application() string {
 	if a.x.Application != nil {
 		return *a.x.Application
@@ -81,7 +81,7 @@ func (a AppProperties) X() *extended_properties.Properties {
 }
 
 // Company returns the name of the company that created the document.
-// For gooxml created documents, it defaults to github.com/sdowns/gooxml
+// For gooxml created documents, it defaults to github.com/pevecyan/gooxml
 func (a AppProperties) Company() string {
 	if a.x.Company != nil {
 		return *a.x.Company
