@@ -12,8 +12,8 @@ package diagram
 import (
 	"encoding/xml"
 
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/schema/soo/dml"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/schema/soo/dml"
 )
 
 type ColorsDef struct {

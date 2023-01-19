@@ -7,7 +7,7 @@
 
 package document
 
-import "github.com/sdowns/gooxml/schema/soo/wml"
+import "github.com/pevecyan/gooxml/schema/soo/wml"
 
 // Footer is a footer for a document section.
 type Footer struct {

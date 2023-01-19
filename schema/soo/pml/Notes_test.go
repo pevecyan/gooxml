@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/pml"
+	"github.com/pevecyan/gooxml/schema/soo/pml"
 )
 
 func TestNotesConstructor(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type CT_GroupLocking struct {

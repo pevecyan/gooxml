@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/dml/spreadsheetDrawing"
+	"github.com/pevecyan/gooxml/schema/soo/dml/spreadsheetDrawing"
 )
 
 func TestCT_GroupShapeConstructor(t *testing.T) {

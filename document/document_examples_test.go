@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sdowns/gooxml/document"
+	"github.com/pevecyan/gooxml/document"
 )
 
 func ExampleNew() {

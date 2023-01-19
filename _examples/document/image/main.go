@@ -4,11 +4,11 @@ package main
 import (
 	"log"
 
-	"github.com/sdowns/gooxml/common"
-	"github.com/sdowns/gooxml/document"
-	"github.com/sdowns/gooxml/measurement"
+	"github.com/pevecyan/gooxml/common"
+	"github.com/pevecyan/gooxml/document"
+	"github.com/pevecyan/gooxml/measurement"
 
-	"github.com/sdowns/gooxml/schema/soo/wml"
+	"github.com/pevecyan/gooxml/schema/soo/wml"
 )
 
 var lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis, lectus dictum feugiat tempus, sem neque finibus enim, sed eleifend sem nunc ac diam. Vestibulum tempus sagittis elementum`

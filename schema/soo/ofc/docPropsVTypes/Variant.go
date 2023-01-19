@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"time"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type Variant struct {

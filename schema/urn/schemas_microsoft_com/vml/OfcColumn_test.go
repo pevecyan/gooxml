@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/urn/schemas_microsoft_com/vml"
+	"github.com/pevecyan/gooxml/schema/urn/schemas_microsoft_com/vml"
 )
 
 func TestOfcColumnConstructor(t *testing.T) {

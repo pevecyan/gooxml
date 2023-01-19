@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/sdowns/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/pevecyan/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Shadow struct {

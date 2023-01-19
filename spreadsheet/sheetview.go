@@ -8,8 +8,8 @@
 package spreadsheet
 
 import (
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/schema/soo/sml"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/schema/soo/sml"
 )
 
 // SheetView is a view of a sheet. There is typically one per sheet, though more

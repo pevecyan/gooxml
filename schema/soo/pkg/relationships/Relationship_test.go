@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/pkg/relationships"
+	"github.com/pevecyan/gooxml/schema/soo/pkg/relationships"
 )
 
 func TestRelationshipConstructor(t *testing.T) {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/wml"
+	"github.com/pevecyan/gooxml/schema/soo/wml"
 )
 
 func TestCT_ParaRPrOriginalConstructor(t *testing.T) {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/ofc/docPropsVTypes"
+	"github.com/pevecyan/gooxml/schema/soo/ofc/docPropsVTypes"
 )
 
 func TestVstreamConstructor(t *testing.T) {

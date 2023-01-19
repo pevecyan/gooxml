@@ -12,7 +12,7 @@ package chartDrawing
 import (
 	"encoding/xml"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type EG_ObjectChoices struct {

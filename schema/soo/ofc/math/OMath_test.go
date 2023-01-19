@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/ofc/math"
+	"github.com/pevecyan/gooxml/schema/soo/ofc/math"
 )
 
 func TestOMathConstructor(t *testing.T) {

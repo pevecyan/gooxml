@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type Fill struct {

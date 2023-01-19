@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/dml/chartDrawing"
+	"github.com/pevecyan/gooxml/schema/soo/dml/chartDrawing"
 )
 
 func TestCT_GraphicFrameConstructor(t *testing.T) {

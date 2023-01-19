@@ -12,7 +12,7 @@ package diagram
 import (
 	"encoding/xml"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type ColorsDefHdrLst struct {

@@ -17,14 +17,14 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/common"
-	"github.com/sdowns/gooxml/zippkg"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/common"
+	"github.com/pevecyan/gooxml/zippkg"
 
-	"github.com/sdowns/gooxml/schema/soo/dml"
-	st "github.com/sdowns/gooxml/schema/soo/ofc/sharedTypes"
-	"github.com/sdowns/gooxml/schema/soo/pkg/relationships"
-	"github.com/sdowns/gooxml/schema/soo/wml"
+	"github.com/pevecyan/gooxml/schema/soo/dml"
+	st "github.com/pevecyan/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/pevecyan/gooxml/schema/soo/pkg/relationships"
+	"github.com/pevecyan/gooxml/schema/soo/wml"
 )
 
 // Document is a text document that can be written out in the OOXML .docx

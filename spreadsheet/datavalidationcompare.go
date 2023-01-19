@@ -8,7 +8,7 @@
 package spreadsheet
 
 import (
-	"github.com/sdowns/gooxml/schema/soo/sml"
+	"github.com/pevecyan/gooxml/schema/soo/sml"
 )
 
 // DVCompareType is a comparison type for a data validation rule. This restricts

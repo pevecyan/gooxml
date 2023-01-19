@@ -16,8 +16,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 const ST_TextBulletSizePercentPattern = `0*((2[5-9])|([3-9][0-9])|([1-3][0-9][0-9])|400)%`

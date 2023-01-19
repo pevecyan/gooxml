@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/dml"
+	"github.com/pevecyan/gooxml/schema/soo/dml"
 )
 
 func TestEG_Text3DConstructor(t *testing.T) {

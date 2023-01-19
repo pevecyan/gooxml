@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/dml/chart"
+	"github.com/pevecyan/gooxml/schema/soo/dml/chart"
 )
 
 func TestUserShapesConstructor(t *testing.T) {

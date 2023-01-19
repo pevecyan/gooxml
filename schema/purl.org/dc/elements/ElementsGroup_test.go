@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/purl.org/dc/elements"
+	"github.com/pevecyan/gooxml/schema/purl.org/dc/elements"
 )
 
 func TestElementsGroupConstructor(t *testing.T) {

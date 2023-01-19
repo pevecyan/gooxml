@@ -5,10 +5,10 @@ go:
 
 install:
         - mkdir -p $HOME/gopath/src/baliance.com/
-        - ln -s $HOME/gopath/src/github.com/baliance/gooxml $HOME/gopath/src/github.com/sdowns/gooxml
+        - ln -s $HOME/gopath/src/github.com/baliance/gooxml $HOME/gopath/src/github.com/pevecyan/gooxml
 
 script:
-        - cd $HOME/gopath/src/github.com/sdowns/gooxml
+        - cd $HOME/gopath/src/github.com/pevecyan/gooxml
         - ./build-examples.sh
         - go vet ./...
         - go test ./...

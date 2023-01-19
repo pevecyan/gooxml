@@ -7,7 +7,7 @@
 
 package spreadsheet
 
-import "github.com/sdowns/gooxml/schema/soo/sml"
+import "github.com/pevecyan/gooxml/schema/soo/sml"
 
 // StandardFormat is a standard ECMA 376 number format.
 //go:generate stringer -type=StandardFormat

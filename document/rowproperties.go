@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/measurement"
-	"github.com/sdowns/gooxml/schema/soo/ofc/sharedTypes"
-	"github.com/sdowns/gooxml/schema/soo/wml"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/measurement"
+	"github.com/pevecyan/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/pevecyan/gooxml/schema/soo/wml"
 )
 
 // RowProperties are the properties for a row within a table

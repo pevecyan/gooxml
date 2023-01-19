@@ -8,10 +8,10 @@
 package drawing
 
 import (
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/color"
-	"github.com/sdowns/gooxml/measurement"
-	"github.com/sdowns/gooxml/schema/soo/dml"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/color"
+	"github.com/pevecyan/gooxml/measurement"
+	"github.com/pevecyan/gooxml/schema/soo/dml"
 )
 
 type LineProperties struct {

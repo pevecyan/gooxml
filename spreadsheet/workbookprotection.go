@@ -8,8 +8,8 @@
 package spreadsheet
 
 import (
-	"github.com/sdowns/gooxml"
-	"github.com/sdowns/gooxml/schema/soo/sml"
+	"github.com/pevecyan/gooxml"
+	"github.com/pevecyan/gooxml/schema/soo/sml"
 )
 
 type WorkbookProtection struct {

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/purl.org/dc/terms"
+	"github.com/pevecyan/gooxml/schema/purl.org/dc/terms"
 )
 
 func TestW3CDTFConstructor(t *testing.T) {

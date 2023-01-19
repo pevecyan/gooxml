@@ -8,7 +8,7 @@
 package chart
 
 import (
-	crt "github.com/sdowns/gooxml/schema/soo/dml/chart"
+	crt "github.com/pevecyan/gooxml/schema/soo/dml/chart"
 )
 
 // BarChart is a 2D bar chart.

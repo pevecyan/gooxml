@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/dml/diagram"
+	"github.com/pevecyan/gooxml/schema/soo/dml/diagram"
 )
 
 func TestCT_TextPropsConstructor(t *testing.T) {

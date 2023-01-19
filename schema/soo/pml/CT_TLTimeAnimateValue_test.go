@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/pml"
+	"github.com/pevecyan/gooxml/schema/soo/pml"
 )
 
 func TestCT_TLTimeAnimateValueConstructor(t *testing.T) {

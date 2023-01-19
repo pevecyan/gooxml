@@ -10,7 +10,7 @@ package common
 import (
 	"fmt"
 
-	"github.com/sdowns/gooxml/schema/soo/pkg/relationships"
+	"github.com/pevecyan/gooxml/schema/soo/pkg/relationships"
 )
 
 // Relationship is a relationship within a .rels file.

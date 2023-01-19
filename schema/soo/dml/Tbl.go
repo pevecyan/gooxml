@@ -12,7 +12,7 @@ package dml
 import (
 	"encoding/xml"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type Tbl struct {

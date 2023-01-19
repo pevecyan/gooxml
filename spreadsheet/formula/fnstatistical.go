@@ -11,7 +11,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 func init() {

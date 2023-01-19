@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/sml"
+	"github.com/pevecyan/gooxml/schema/soo/sml"
 )
 
 func TestCT_RevisionCustomViewConstructor(t *testing.T) {

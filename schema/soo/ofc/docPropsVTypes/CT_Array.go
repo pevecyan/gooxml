@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type CT_Array struct {

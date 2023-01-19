@@ -12,7 +12,7 @@ package sml
 import (
 	"encoding/xml"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type Metadata struct {

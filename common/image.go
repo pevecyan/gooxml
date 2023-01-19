@@ -12,13 +12,13 @@ import (
 	"image"
 	"os"
 
-	"github.com/sdowns/gooxml/measurement"
+	"github.com/pevecyan/gooxml/measurement"
 	// Add image format support
 	_ "image/gif"
 	_ "image/jpeg"
 	_ "image/png"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 // Image is a container for image information. It's used as we need format and

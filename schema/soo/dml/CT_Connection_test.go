@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/sdowns/gooxml/schema/soo/dml"
+	"github.com/pevecyan/gooxml/schema/soo/dml"
 )
 
 func TestCT_ConnectionConstructor(t *testing.T) {

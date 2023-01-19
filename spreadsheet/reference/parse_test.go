@@ -10,7 +10,7 @@ package reference_test
 import (
 	"testing"
 
-	"github.com/sdowns/gooxml/spreadsheet/reference"
+	"github.com/pevecyan/gooxml/spreadsheet/reference"
 )
 
 func TestParseCellReference(t *testing.T) {

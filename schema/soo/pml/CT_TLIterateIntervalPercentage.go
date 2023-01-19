@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/sdowns/gooxml/schema/soo/dml"
+	"github.com/pevecyan/gooxml/schema/soo/dml"
 )
 
 type CT_TLIterateIntervalPercentage struct {

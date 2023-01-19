@@ -12,7 +12,7 @@ package vml
 import (
 	"encoding/xml"
 
-	"github.com/sdowns/gooxml"
+	"github.com/pevecyan/gooxml"
 )
 
 type OfcCT_ShapeLayout struct {
