@@ -55,36 +55,36 @@ DOCX/XLSX/PPTX.
 
 ## Document Examples ##
 
-- [Simple Text Formatting](https://github.com/baliance/gooxml/tree/master/_examples/document/simple) Text font colors, sizes, highlighting, etc.
-- [Auto Generated Table of Contents](https://github.com/baliance/gooxml/tree/master/_examples/document/toc) Creating document headings with an auto generated TOC based off of the headingds
-- [Floating Image](https://github.com/baliance/gooxml/tree/master/_examples/document/image) Placing an image somewhere on a page, absolutely positioned with different text wrapping.
-- [Header & Footer](https://github.com/baliance/gooxml/tree/master/_examples/document/header-footer) Creating headers and footers including page numbering.
-- [Multiple Headers & Footers](https://github.com/baliance/gooxml/tree/master/_examples/document/header-footer-multiple) Using different headers and footers depending on document section.
-- [Inline Tables](https://github.com/baliance/gooxml/tree/master/_examples/document/tables) Adding an table with and without borders.
-- [Using Existing Word Document as a Template](https://github.com/baliance/gooxml/tree/master/_examples/document/use-template) Opening a document as a template to re-use the styles created in the document.
-- [Filling out Form Fields](https://github.com/baliance/gooxml/tree/master/_examples/document/fill-out-form) Opening a document with embedded form fields, filling out the fields and saving the result as  a new filled form.
-- [Editing an existing document](https://github.com/baliance/gooxml/tree/master/_examples/document/edit-document) Open an existing document and replace/remove text without modifying formatting.
+- [Simple Text Formatting](https://github.com/pevecyan/gooxml/tree/master/_examples/document/simple) Text font colors, sizes, highlighting, etc.
+- [Auto Generated Table of Contents](https://github.com/pevecyan/gooxml/tree/master/_examples/document/toc) Creating document headings with an auto generated TOC based off of the headingds
+- [Floating Image](https://github.com/pevecyan/gooxml/tree/master/_examples/document/image) Placing an image somewhere on a page, absolutely positioned with different text wrapping.
+- [Header & Footer](https://github.com/pevecyan/gooxml/tree/master/_examples/document/header-footer) Creating headers and footers including page numbering.
+- [Multiple Headers & Footers](https://github.com/pevecyan/gooxml/tree/master/_examples/document/header-footer-multiple) Using different headers and footers depending on document section.
+- [Inline Tables](https://github.com/pevecyan/gooxml/tree/master/_examples/document/tables) Adding an table with and without borders.
+- [Using Existing Word Document as a Template](https://github.com/pevecyan/gooxml/tree/master/_examples/document/use-template) Opening a document as a template to re-use the styles created in the document.
+- [Filling out Form Fields](https://github.com/pevecyan/gooxml/tree/master/_examples/document/fill-out-form) Opening a document with embedded form fields, filling out the fields and saving the result as  a new filled form.
+- [Editing an existing document](https://github.com/pevecyan/gooxml/tree/master/_examples/document/edit-document) Open an existing document and replace/remove text without modifying formatting.
 
 ## Spreadsheet Examples ##
-- [Simple](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/simple) A simple sheet with a few cells
-- [Named Cells](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/named-cells) Different ways of referencing rows and cells
-- [Cell Number/Date/Time Formats](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/number-date-time-formats) Creating cells with various number/date/time formats
-- [Line Chart](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/line-chart)/[Line Chart 3D](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/line-chart-3d) Line Charts
-- [Bar Chart](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/bar-chart) Bar Charts
-- [Mutiple Charts](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/multiple-charts) Multiple charts on a single sheet
-- [Named Cell Ranges](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/named-ranges) Naming cell ranges
-- [Merged Cells](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/merged) Merge and unmerge cells
-- [Conditional Formatting](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/conditional-formatting) Conditionally formatting cells, styling, gradients, icons, data bar
-- [Complex](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/complex) Multiple charts, auto filtering and conditional formatting
-- [Borders](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/borders) Individual cell borders and rectangular borders around a range of cells.
-- [Validation](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/validation) Data validation including combo box dropdowns.
-- [Frozen Rows/Cols](https://github.com/baliance/gooxml/tree/master/_examples/spreadsheet/freeze-rows-cols) A sheet with a frozen header column and row
+- [Simple](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/simple) A simple sheet with a few cells
+- [Named Cells](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/named-cells) Different ways of referencing rows and cells
+- [Cell Number/Date/Time Formats](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/number-date-time-formats) Creating cells with various number/date/time formats
+- [Line Chart](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/line-chart)/[Line Chart 3D](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/line-chart-3d) Line Charts
+- [Bar Chart](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/bar-chart) Bar Charts
+- [Mutiple Charts](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/multiple-charts) Multiple charts on a single sheet
+- [Named Cell Ranges](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/named-ranges) Naming cell ranges
+- [Merged Cells](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/merged) Merge and unmerge cells
+- [Conditional Formatting](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/conditional-formatting) Conditionally formatting cells, styling, gradients, icons, data bar
+- [Complex](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/complex) Multiple charts, auto filtering and conditional formatting
+- [Borders](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/borders) Individual cell borders and rectangular borders around a range of cells.
+- [Validation](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/validation) Data validation including combo box dropdowns.
+- [Frozen Rows/Cols](https://github.com/pevecyan/gooxml/tree/master/_examples/spreadsheet/freeze-rows-cols) A sheet with a frozen header column and row
 
 ## Presentation Examples ##
 
-- [Simple Text Boxes](https://github.com/baliance/gooxml/tree/master/_examples/presentation/simple) Simple text boxes and shapes
-- [Images](https://github.com/baliance/gooxml/tree/master/_examples/presentation/image) Simple image insertion
-- [Template](https://github.com/baliance/gooxml/tree/master/_examples/presentation/use-template/simple) Creating a presentation from a template
+- [Simple Text Boxes](https://github.com/pevecyan/gooxml/tree/master/_examples/presentation/simple) Simple text boxes and shapes
+- [Images](https://github.com/pevecyan/gooxml/tree/master/_examples/presentation/image) Simple image insertion
+- [Template](https://github.com/pevecyan/gooxml/tree/master/_examples/presentation/use-template/simple) Creating a presentation from a template
 
 ## Raw Types ##
 
@@ -106,22 +106,4 @@ background color. However it's easy to do manually via editing the
     doc.X().Background = wordprocessingml.NewCT_Background()
 	doc.X().Background.ColorAttr = &wordprocessingml.ST_HexColor{}
 	doc.X().Background.ColorAttr.ST_HexColorRGB = color.RGB(50, 50, 50).AsRGBString()
-
-### Contribution guidelines ###
-
-[![CLA assistant](https://cla-assistant.io/readme/badge/baliance/gooxml)](https://cla-assistant.io/baliance/gooxml)
-
-All contributors are must sign a contributor license agreement before their code
-will be reviewed and merged.
-
-
-### Licensing ###
-
-This library is offered under a dual license. It is freely available for use
-under the terms of AGPLv3. If you would like to use this library for a closed
-source project, please contact sales@baliance.com.
-
-There are no differences in functionality between the open source and commercial 
-versions. You are encouraged to use the open source version to evaluate the library
-before purchasing a commercial license.
 
