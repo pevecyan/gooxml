@@ -17,6 +17,10 @@ type Table struct {
 	x *wml.CT_Tbl
 }
 
+func NewTable(d *Document, x *wml.CT_Tbl) Table {
+	return Table{d, x}
+}
+
 // X returns the inner wrapped XML type.
 func (t Table) X() *wml.CT_Tbl {
 	return t.x
